@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/School-Website/static/css/main.22ecc159.css",
+    "main.js": "/School-Website/static/js/main.5b29d950.js",
+    "static/js/453.aa00bfbf.chunk.js": "/School-Website/static/js/453.aa00bfbf.chunk.js",
+    "static/media/material3.pdf": "/School-Website/static/media/material3.2bb66a1e855273fe9c54.pdf",
+    "static/media/material1.pdf": "/School-Website/static/media/material1.7478e735f64da8e29653.pdf",
+    "static/media/material2.pdf": "/School-Website/static/media/material2.f8eeba563cb040578af4.pdf",
+    "static/media/alumni1.jpg": "/School-Website/static/media/alumni1.b3f7f6f7f79dadf99e7c.jpg",
+    "static/media/faculty2.jpg": "/School-Website/static/media/faculty2.a2016f7495e7e86f818d.jpg",
+    "static/media/leadership2.jpg": "/School-Website/static/media/leadership2.d108e22a6d503a04633e.jpg",
+    "static/media/leadership3.jpg": "/School-Website/static/media/leadership3.518b9258331fa4976651.jpg",
+    "static/media/faculty1.jpg": "/School-Website/static/media/faculty1.6abadd08482aabb22c6b.jpg",
+    "static/media/leadership1.jpg": "/School-Website/static/media/leadership1.dfa435a2a3dc375fcf5f.jpg",
+    "static/media/hero-background.jpg": "/School-Website/static/media/hero-background.e496d7aae73f22bd3f44.jpg",
+    "static/media/student2.jpg": "/School-Website/static/media/student2.35ae069e668ea576c135.jpg",
+    "static/media/student1.jpg": "/School-Website/static/media/student1.3491270e069a7fdb0ff1.jpg",
+    "static/media/event3.jpg": "/School-Website/static/media/event3.262e68c2075bdf9f865a.jpg",
+    "static/media/event6.jpg": "/School-Website/static/media/event6.24f6a89cf862cf1d268b.jpg",
+    "static/media/event1.jpg": "/School-Website/static/media/event1.0dc25fc08aa78c5c355e.jpg",
+    "static/media/event2.jpg": "/School-Website/static/media/event2.6ba1c98a9a147fc9b13a.jpg",
+    "static/media/faculty3.jpg": "/School-Website/static/media/faculty3.68f9bc5332bf92b6a911.jpg",
+    "static/media/event5.jpg": "/School-Website/static/media/event5.cb26cdd5a61d4f87b04c.jpg",
+    "static/media/event4.jpg": "/School-Website/static/media/event4.656c254b91f40a6e6946.jpg",
+    "static/media/club3.jpg": "/School-Website/static/media/club3.dba3cd359aa5d7084d64.jpg",
+    "static/media/club2.jpg": "/School-Website/static/media/club2.970523dc47dc5ad82dd8.jpg",
+    "static/media/club1.jpg": "/School-Website/static/media/club1.26e87fd47e873f02715f.jpg",
+    "static/media/faculty4.jpg": "/School-Website/static/media/faculty4.4357f7176c239d09c4b2.jpg",
+    "index.html": "/School-Website/index.html",
+    "main.22ecc159.css.map": "/School-Website/static/css/main.22ecc159.css.map",
+    "main.5b29d950.js.map": "/School-Website/static/js/main.5b29d950.js.map",
+    "453.aa00bfbf.chunk.js.map": "/School-Website/static/js/453.aa00bfbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ecc159.css",
+    "static/js/main.5b29d950.js"
+  ]
+}
