@@ -1,0 +1,32 @@
+.extracurricularSection {
+  background-color: #f1f1f1;
+  padding: 2rem 0;
+}
+
+.clubCard {
+  border: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 10px; 
+  overflow: hidden; 
+}
+
+.clubCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.clubImage {
+  height: 300px; 
+  object-fit: cover; 
+  border-radius: 10px 10px 0 0; 
+}
+
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.card-text {
+  font-size: 0.9rem;
+  color: #555555;
+}

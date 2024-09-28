@@ -1,0 +1,37 @@
+.navbarCustom {
+  background-color: rgb(214, 230, 218); 
+  padding: 0.8rem 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease; 
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.navList {
+  align-items: center;
+}
+
+.navLink {
+  color: #124922; 
+  margin-right: 1.5rem;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navLink:hover,
+.navLink.active {
+  color: #ffcc00 !important; 
+}
+
+.navbarCustom.scrolled {
+  background-color: #f8f9fa; 
+}

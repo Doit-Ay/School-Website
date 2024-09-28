@@ -1,0 +1,40 @@
+.announcementsSection {
+  background-color: #e9ecef; 
+  padding: 3rem 0;
+  border-top: 2px solid #004080; 
+  border-bottom: 2px solid #004080;
+}
+
+.announcementCard {
+  border: none;
+  border-left: 5px solid #004080; 
+  background-color: #ffffff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.announcementCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  color: #004080;
+  font-weight: 600;
+}
+
+.card-subtitle {
+  font-size: 0.9rem;
+}
+
+.card-text {
+  color: #555555;
+}
+
+.card-link {
+  color: #ffcc00;
+  font-weight: 500;
+}
+
+.card-link:hover {
+  text-decoration: underline;
+}

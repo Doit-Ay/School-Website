@@ -1,0 +1,39 @@
+.academicsSection {
+  background-color: #ffffff;
+  padding: 2rem 0;
+}
+
+.timetable {
+  margin-top: 1rem;
+  border-collapse: collapse;
+}
+
+.timetable th,
+.timetable td {
+  padding: 0.75rem;
+  text-align: center;
+}
+
+.timetable thead {
+  background-color: #004080;
+  color: #ffffff;
+}
+
+.timetable tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-group-item a {
+  color: #ffcc00;
+  font-weight: 500;
+}
+
+.list-group-item a:hover {
+  text-decoration: underline;
+}

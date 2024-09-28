@@ -1,0 +1,22 @@
+.footer a {
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer a:hover {
+  color: #ffcc00;
+}
+
+.footer h5 {
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.footer p,
+.footer li {
+  font-size: 0.9rem;
+}
+
+.footer ul li {
+  margin-bottom: 0.5rem;
+}
