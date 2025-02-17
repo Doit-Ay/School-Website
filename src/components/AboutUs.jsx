@@ -10,7 +10,7 @@ const AboutUs = () => {
       name: 'Shorya Mishra',
       position: 'Principal',
       image: leadership1,
-      bio: 'John has over 20 years of experience in education, dedicated to fostering a nurturing and challenging environment for students.',
+      bio: 'John has over 10 years of experience in education, dedicated to fostering a nurturing and challenging environment for students.',
     },
     {
       name: 'Vidisha Gupta',
