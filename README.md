@@ -1,4 +1,4 @@
-# Project live link - (https://doit-ay.github.io/School-Website/)
+### Project live link - https://doit-ay.github.io/School-Website
 
 # Getting Started with Create React App
 
