@@ -78,4 +78,5 @@ const Academics = () => {
   );
 };
 
+
 export default Academics;
