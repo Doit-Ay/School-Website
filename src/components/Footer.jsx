@@ -26,7 +26,7 @@ const Footer = () => {
             <h5>Connect with Us</h5>
             <p>
               <strong>Address:</strong><br />
-              near Srm University<br />
+              Near SRM University<br />
               Chennai,Tamil Nadu
             </p>
             <p>
